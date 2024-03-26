@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/soyrice/Desktop/202444001_C/202444001_C/c_0326_test2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D94, symSize: 0x148 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D94, symSize: 0x148 }
+  - { offsetInCU: 0x85, offset: 0x85, size: 0x8, addend: 0x0, symName: _plus, symObjAddr: 0x148, symBinAddr: 0x100003EDC, symSize: 0x20 }
+  - { offsetInCU: 0xBB, offset: 0xBB, size: 0x8, addend: 0x0, symName: _minus, symObjAddr: 0x168, symBinAddr: 0x100003EFC, symSize: 0x20 }
+  - { offsetInCU: 0xF1, offset: 0xF1, size: 0x8, addend: 0x0, symName: _multi, symObjAddr: 0x188, symBinAddr: 0x100003F1C, symSize: 0x20 }
+  - { offsetInCU: 0x127, offset: 0x127, size: 0x8, addend: 0x0, symName: _divide, symObjAddr: 0x1A8, symBinAddr: 0x100003F3C, symSize: 0x20 }
+...
