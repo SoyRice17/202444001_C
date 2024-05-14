@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/soyrice/Desktop/202444001_C/202444001_C/0514/Arrays4'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003BFC, symSize: 0xF8 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003BFC, symSize: 0xF8 }
+  - { offsetInCU: 0x85, offset: 0x85, size: 0x8, addend: 0x0, symName: _readNumbers, symObjAddr: 0xF8, symBinAddr: 0x100003CF4, symSize: 0xFC }
+  - { offsetInCU: 0xD3, offset: 0xD3, size: 0x8, addend: 0x0, symName: _calculateFrequency, symObjAddr: 0x1F4, symBinAddr: 0x100003DF0, symSize: 0x6C }
+  - { offsetInCU: 0x12F, offset: 0x12F, size: 0x8, addend: 0x0, symName: _printFrequency, symObjAddr: 0x260, symBinAddr: 0x100003E5C, symSize: 0x84 }
+...

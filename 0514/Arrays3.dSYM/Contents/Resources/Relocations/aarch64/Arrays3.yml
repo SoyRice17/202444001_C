@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/soyrice/Desktop/202444001_C/202444001_C/0514/Arrays3'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _array_1, symObjAddr: 0x0, symBinAddr: 0x100003DA0, symSize: 0x60 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _array_1, symObjAddr: 0x0, symBinAddr: 0x100003DA0, symSize: 0x60 }
+  - { offsetInCU: 0x8F, offset: 0x8F, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x60, symBinAddr: 0x100003E00, symSize: 0x140 }
+...
